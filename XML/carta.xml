@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carta>
+    <platos tipo="1rplato">
+        <title>Sopa de calabaza y jengibre</title>
+        <description tipo="Sopas">Sopa de Calabaza y Jengibre: cremosa mezcla de calabaza, jengibre, cebolla y leche de coco.</description>
+        <ingredientes>Calabaza, jengibre, cebolla, leche de coco</ingredientes>
+        <precio>8.50€</precio>
+        <imagen>./IMG/Sopa_de_calabaza_y_jengibre.jpg</imagen>
+    </platos>
+    <platos tipo="1rplato">
+        <title>Tartar de salmón</title>
+        <description tipo="Pescados">Tartar de Salmón fresco con limón, eneldo, aguacate y cebolla roja. Frescura y sabor garantizados.</description>
+        <ingredientes>Salmón, limón, eneldo, aguacate, cebolla roja</ingredientes>
+        <precio>14.75€</precio>
+        <imagen>./IMG/Tartar_de_salmón.jpg</imagen>
+    </platos>
+    <platos tipo="1rplato">
+        <title>Pizza Margarita</title>
+        <description tipo="Pasta">Pizza Margarita: masa fina, tomate fresco, mozzarella y albahaca. Deliciosa y reconfortante opción.</description>
+        <ingredientes>Masa de pizza, tomate, mozzarella, albahaca</ingredientes>
+        <precio>12.99€</precio>
+        <imagen>./IMG/Pizza_Margarita.jpg</imagen>
+    </platos>
+    <platos tipo="1rplato">
+        <title>Entrecot a la parrilla</title>
+        <description tipo="Carnes">Entrecot a la Parrilla con especias exclusivas. Jugosidad incomparable y sabor intenso garantizados.</description>
+        <ingredientes>Entrecot, especias exclusivas</ingredientes>
+        <precio>18.50€</precio>
+        <imagen>./IMG/Entrecot_a_la_parrilla.jpg</imagen>
+    </platos>
+    <platos tipo="1rplato">
+        <title>Carpaccio de salmón</title>
+        <description tipo="Pescados">Carpaccio de Salmón con aceite de oliva, limón y hierbas frescas. Ligero y refrescante.</description>
+        <ingredientes>Salmón, aceite de oliva, limón, hierbas frescas</ingredientes>
+        <precio>15.25€</precio>
+        <imagen>./IMG/Carpaccio_de_salmon.jpg</imagen>
+    </platos>
+    <platos tipo="1rplato">
+        <title>Ensalada César</title>
+        <description tipo="Ensaladas">Ensalada César con pollo a la parrilla, crutones de pan y salsa César casera. Ligera y sabrosa.</description>
+        <ingredientes>Lechuga, pollo, crutones, salsa César</ingredientes>
+        <precio>9.99€</precio>
+        <imagen>./IMG/Ensalada_Cesar.jpg</imagen>
+    </platos>
+    <platos tipo="1rplato">
+        <title>Gazpacho Andaluz</title>
+        <description tipo="Sopas">Gazpacho Andaluz: sopa fría tradicional con tomate, pepino, pimiento, ajo y aceite de oliva.</description>
+        <ingredientes>Tomate, pepino, pimiento, ajo</ingredientes>
+        <precio>7.75€</precio>
+        <imagen>./IMG/Gazpacho_Andaluz.webp</imagen>
+    </platos>
+    <platos tipo="2rplato">
+        <title>Risotto de setas</title>
+        <description tipo="Vegetariano">Risotto de Setas: arroz cremoso cocido en caldo de vegetales y mezclado con variedad de setas.</description>
+        <ingredientes>Arroz, caldo de vegetales, setas</ingredientes>
+        <precio>16.99€</precio>
+        <imagen>./IMG/risotto_de_setas.jpg</imagen>
+    </platos>
+    <platos tipo="2rplato">
+        <title>Entrecot de ternera con salsa de champiñones</title>
+        <description tipo="Carnes">Entrecot de ternera con salsa de champiñones y patatas asadas al romero. Reconfortante y sabroso.</description>
+        <ingredientes>Entrecot de ternera, champiñones, patatas, romero</ingredientes>
+        <precio>22.50€</precio>
+        <imagen>./IMG/Entrecot_de_ternera_con_salsa_de_champiñones.jpg</imagen>
+    </platos>
+    <platos tipo="2rplato">
+        <title>Pulpo a la gallega</title>
+        <description tipo="Mariscos">Pulpo a la Gallega: tierno y jugoso, cocido y sazonado con aceite de oliva, pimentón y sal gruesa.</description>
+        <ingredientes>Pulpo, aceite de oliva, pimentón, sal gruesa</ingredientes>
+        <precio>20.75€</precio>
+        <imagen>./IMG/pulpo_a_la_gallega.jpg</imagen>
+    </platos>
+    <platos tipo="2rplato">
+        <title>Salmón al horno con salsa de eneldo</title>
+        <description tipo="Pescados">Salmón al horno con salsa de eneldo sobre verduras al vapor. Opción saludable y deliciosa.</description>
+        <ingredientes>Salmón, eneldo, verduras al vapor</ingredientes>
+        <precio>18.25€</precio>
+        <imagen>./IMG/Salmon_al_horno_con_salsa_de_eneldo.jpg</imagen>
+    </platos>
+    <platos tipo="2rplato">
+        <title>Risotto de langostinos</title>
+        <description tipo="Arroces">Risotto de Langostinos: arroz cocido en caldo de mariscos, con langostinos, espárragos y azafrán.</description>
+        <ingredientes>Arroz, caldo de mariscos, langostinos, espárragos, azafrán</ingredientes>
+        <precio>21.50€</precio>
+        <imagen>./IMG/Risotto_de_langostinos.jpg</imagen>
+    </platos>
+    <platos tipo="2rplato">
+        <title>Lomo de bacalao al pil-pil</title>
+        <description tipo="Pescados">Lomo de Bacalao al Pil-Pil: lomos de bacalao fresco cocidos en aceite de oliva, ajo y guindilla.</description>
+        <ingredientes>Bacalao, aceite de oliva, ajo, guindilla</ingredientes>
+        <precio>19.99€</precio>
+        <imagen>./IMG/Lomo_de_bacalao_al_pil_pil.jpg</imagen>
+    </platos>
+    <platos tipo="2rplato">
+        <title>Pasta al pesto con gambas</title>
+        <description tipo="Pasta">Pasta al Pesto con Gambas: pasta fresca con salsa pesto casera, gambas y tomates cherry.</description>
+        <ingredientes>Pasta, salsa pesto, gambas, tomates cherry</ingredientes>
+        <precio>17.25€</precio>
+        <imagen>./IMG/Pasta_al_pesto_con_gambas.jpg</imagen>
+    </platos>
+    <platos tipo="postre">
+        <title>Pastel de Tres Leches</title>
+        <description tipo="Postres">Pastel de Tres Leches: torta empapada en mezcla de tres leches, decorada con crema batida.</description>
+        <ingredientes>Harina, huevos, leche, crema de leche, vainilla</ingredientes>
+        <precio>7.50€</precio>
+        <imagen>./IMG/Pastel_de_tres_leches.webp</imagen>
+    </platos>
+    <platos tipo="postre">
+        <title>Coulant de chocolate</title>
+        <description tipo="Postres">Coulant de Chocolate: centro líquido de chocolate caliente, cubierto con bizcocho esponjoso y helado de vainilla.</description>
+        <ingredientes>Chocolate, helado de vainilla, harina, huevos</ingredientes>
+        <precio>9.99€</precio>
+        <imagen>./IMG/coulant_de_chocolate.jpg</imagen>
+    </platos>
+    <platos tipo="postre">
+        <title>Tarta de chocolate y avellanas</title>
+        <description tipo="Postres">Tarta de Chocolate y Avellanas: base crujiente de galleta, relleno de chocolate y capa de avellanas.</description>
+        <ingredientes>Chocolate, avellanas, galleta, huevos</ingredientes>
+        <precio>11.50€</precio>
+        <imagen>./IMG/Tarta_de_chocolate_y_avellanas.jpg</imagen>
+    </platos>
+    <platos tipo="postre">
+        <title>Tarta de queso New York</title>
+        <description tipo="Postres">Tarta de Queso New York: base crujiente de galleta, relleno cremoso de queso con toque de vainilla.</description>
+        <ingredientes>Queso crema, galleta, vainilla, frutos rojos</ingredientes>
+        <precio>10.75€</precio>
+        <imagen>./IMG/Tarta_de_queso.jpg</imagen>
+    </platos>
+    <platos tipo="postre">
+        <title>Crema Catalana</title>
+        <description tipo="Postres">Crema Catalana: crema suave con canela y ralladura de limón, caramelizada en la parte superior.</description>
+        <ingredientes>Huevos, leche, azúcar, canela, limón</ingredientes>
+        <precio>7.99€</precio>
+        <imagen>./IMG/Crema_Catalana.jpg</imagen>
+    </platos>
+    <platos tipo="postre">
+        <title>Helado artesanal de vainilla con coulis de frutos rojos</title>
+        <description tipo="Postres">Helado de Vainilla con Coulis de Frutos Rojos: vainilla de Madagascar y coulis de frutos rojos frescos.</description>
+        <ingredientes>Vainilla, frutos rojos</ingredientes>
+        <precio>6.50€</precio>
+        <imagen>./IMG/Helado_artesanal_de_vainilla_con_coulis_de_frutos_rojos.jpg</imagen>
+    </platos>
+    <platos tipo="postre">
+        <title>Mousse de chocolate blanco con frutos del bosque</title>
+        <description tipo="Postres">Mousse de Chocolate Blanco con Frutos del Bosque: suave mousse acompañada de frutos del bosque.</description>
+        <ingredientes>Chocolate blanco, frutos del bosque</ingredientes>
+        <precio>8.75€</precio>
+        <imagen>./IMG/Mousse_de_chocolate_blanco_con_frutos_del_bosque.jpg</imagen>
+    </platos>
+    <platos tipo="bebidas">
+        <title>Coca Cola</title>
+        <precio>2.00€</precio>
+    </platos>
+    <platos tipo="bebidas">
+        <title>Fanta</title>
+        <precio>2.00€</precio>
+    </platos>
+    <platos tipo="bebidas">
+        <title>Nestea</title>
+        <precio>2.00€</precio>
+    </platos>
+    <platos tipo="bebidas">
+        <title>Vino Tinto</title>
+        <precio>5.00€</precio>
+    </platos>
+    <platos tipo="bebidas">
+        <title>Agua</title>
+        <precio>1.50€</precio>
+    </platos>
+    <platos tipo="bebidas">
+        <title>Pepsi</title>
+        <precio>2.00€</precio>
+    </platos>
+    <platos tipo="bebidas">
+        <title>Sprite</title>
+        <precio>2.00€</precio>
+   
+    </platos>
+    <platos tipo="bebidas">
+        <title>Limonada</title>
+        <precio>2.50€</precio>
+
+    </platos>
+    <platos tipo="bebidas">
+        <title>Ice Tea</title>
+        <precio>2.50€</precio>
+
+    </platos>
+    <platos tipo="bebidas">
+        <title>Martini</title>
+        <precio>8.00€</precio>
+
+    </platos>
+    <platos tipo="bebidas">
+        <title>Caipirinha</title>
+        <precio>9.00€</precio>
+
+    </platos>
+    <platos tipo="bebidas">
+        <title>Tequila Sunrise</title>
+        <precio>9.00€</precio>
+    </platos>
+    <platos tipo="bebidas">
+        <title>Whisky Sour</title>
+        <precio>10.00€</precio>
+        
+    </platos>
+    <platos tipo="bebidas">
+        <title>Agua de Coco</title>
+        <precio>3.00€</precio>
+    
+    </platos>
+</carta>
+
+
+

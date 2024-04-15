@@ -1,0 +1,132 @@
+body {
+    background-image: url("../IMG/fondo.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+
+   
+}
+#logo{
+    width: 10%;
+}
+.primerosplatos{
+    flex-basis: 30%; 
+    background-color: rgba(160, 157, 157, 0.696);
+    border-radius: 1em;
+    padding: 1em;
+    margin: 1em;
+    text-align: center;
+    border-color: #0b0f13;
+    border-width: 0.1em;
+    border-style: dashed;
+} .segundosplatos{
+    flex-basis: 30%; 
+    background-color: rgba(160, 157, 157, 0.696);
+    border-radius: 1em;
+    padding: 1em;
+    margin: 1em;
+    text-align: center;
+    border-color: #0b0f13;
+    border-width: 0.1em;
+    border-style: dashed;
+} .postre{
+    flex-basis: 30%; 
+    background-color: rgba(160, 157, 157, 0.696);
+    border-radius: 1em;
+    padding: 1em;
+    margin: 1em;
+    text-align: center;
+    border-color: #0b0f13;
+    border-width: 0.1em;
+    border-style: dashed;
+}
+.primerosplatos > img{
+    width: 100%;
+}
+.segundosplatos > img{
+    width: 100%; 
+}
+.postre > img{
+    width: 100%;
+}
+.bloques{
+    display: flex;
+    flex-wrap: wrap;
+}
+.col{
+    text-align: center;
+}
+
+/* @media screen and (max-width:600px) {
+    body{
+        background-color: red;
+    }
+} */
+
+/* Estilo para el pie de página */
+footer {
+    background-color: #f4f4f4;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Estilo para el título de la sección de bebidas */
+.bebidatitulo {
+    color: #333; /* Color de texto oscuro */
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+/* Estilo para el contenedor de las bebidas */
+.bebidas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+/* Estilo para cada bebida */
+.bebida {
+    width: 200px;
+    margin: 0 10px 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    text-align: center;
+}
+
+/* Estilo para el precio de la bebida */
+.bebida, .precio {
+    color: #0b0f13; /* Azul */
+    font-weight: bold;
+}
+#correo , #instagram{
+    color: black;
+    text-decoration: none;
+}
+.header{
+  display: flex;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.415);
+}
+.tituloyfoto{
+    size-adjust: 1.5;
+    margin-left: 35%;
+    margin-top:2%;
+    margin-bottom: 2%;
+}
+
+@media only screen and (max-width: 1000px) {
+    /* For mobile phones: */
+    .col {
+      width: 100%;
+    }
+    .row{
+        display:contents;
+    }
+    .tituloyfoto{
+        size-adjust: 1.5;
+        margin-left: 15%;
+        margin-top:2%;
+        margin-bottom: 2%;
+    }
+  }
+
